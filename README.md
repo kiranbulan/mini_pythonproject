@@ -1,1 +1,1 @@
-#1 this repository contain mini project of python
+This repository contains mini project in python
